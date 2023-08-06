@@ -1,0 +1,3 @@
+/mnt/c/Users/Neel Nyamagoudar/CLionProjects/RayTracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Neel Nyamagoudar/CLionProjects/RayTracer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Neel Nyamagoudar/CLionProjects/RayTracer/cmake-build-debug/CMakeFiles/RayTracer.dir
